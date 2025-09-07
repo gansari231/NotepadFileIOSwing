@@ -22,11 +22,11 @@ This project allows users to create, open, edit, and save text files in a simple
 
 ## 📂 Project Structure
 NotepadFileIOSwing/     
-│     
+│    
 ├── src/     
 │    └── NotepadFileIO.java      
-│     
-├── README.md        
+│    
+├── README.md       
 ├── LICENSE                          
 
 ---
